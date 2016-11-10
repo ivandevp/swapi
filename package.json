@@ -1,0 +1,21 @@
+{
+  "name": "swapi",
+  "version": "1.0.0",
+  "description": "Star Wars API Client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SWAPI",
+    "Star",
+    "Wars",
+    "API",
+    "JS"
+  ],
+  "author": "Ivan Medina <ivan@laboratoria.la>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
